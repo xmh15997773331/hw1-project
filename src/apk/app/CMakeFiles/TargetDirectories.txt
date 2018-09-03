@@ -1,0 +1,5 @@
+/Users/yangshuai/Desktop/NativeServiceApplication/app/CMakeFiles/hello.dir
+/Users/yangshuai/Desktop/NativeServiceApplication/app/CMakeFiles/rebuild_cache.dir
+/Users/yangshuai/Desktop/NativeServiceApplication/app/CMakeFiles/edit_cache.dir
+/Users/yangshuai/Desktop/NativeServiceApplication/app/CMakeFiles/hello-lib_static.dir
+/Users/yangshuai/Desktop/NativeServiceApplication/app/CMakeFiles/hello-lib.dir
